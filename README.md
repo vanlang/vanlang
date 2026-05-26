@@ -49,9 +49,3 @@ I use Claude Code as a directed tool — not autocomplete. Every output gets rev
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanlang&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/vanlang) · vothuycoc@gmail.com
