@@ -1,39 +1,60 @@
 # Trung Nguyen · vanlang
 
-Builder. Fullstack + AI integrations. Based in Vietnam.
-
-I ship production apps using modern web stacks and wire in LLMs where they actually add value.
-
----
-
-## What I Build
-
-- Fullstack web apps with React / Next.js + Node.js backends
-- AI-powered features using Claude API and LLM integrations
-- Scalable infra on AWS + Docker + managed databases
-- Real-time systems with Redis, GraphQL, and Firebase
+AI-directed developer. Build and ship production systems using modern edge stacks.
+Based in Vietnam · Open to remote.
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-**AI & Automation**
+### [battlestrade.com](https://battlestrade.com) — MT5 Trading Dashboard & EA Marketplace
+Full-stack trading platform: MQL5 Expert Advisor on VPS auto-pushes live data → Cloudflare Workers API → Astro SSR frontend. Real-time P&L, analytics, EA discovery marketplace.
 
-[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+`Cloudflare Workers` `Astro SSR` `Hono.js` `Drizzle ORM` `D1 SQLite` `TypeScript` `Chart.js` `Google OAuth` `JWT`
 
-Claude API · Claude Code · LLM integrations · Prompt engineering
+### [ho-so-benh-an.vercel.app](https://ho-so-benh-an.vercel.app) — Medical Records Management
+Patient record system with role-based access, document management, and audit trails.
+
+`TypeScript` `Vercel`
+
+### [chuhan-flashcards.vercel.app](https://chuhan-flashcards.vercel.app) — Language Flashcard App
+Spaced repetition flashcard system for language learning.
+
+`JavaScript` `Vercel`
+
+---
+
+## Stack
+
+**Edge Runtime & Backend**
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
+[![Hono](https://img.shields.io/badge/Hono.js-E36002?style=flat)](https://hono.dev)
+[![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)](https://orm.drizzle.team)
+[![SQLite](https://img.shields.io/badge/D1_SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://developers.cloudflare.com/d1)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,html,css&theme=dark)](https://skillicons.dev)
+[![Astro](https://img.shields.io/badge/Astro_SSR-FF5D01?style=flat&logo=astro&logoColor=white)](https://astro.build)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Backend**
+**AI Tooling**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,bun,python,graphql&theme=dark)](https://skillicons.dev)
+[![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat)](https://claude.ai/code)
+[![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)](https://anthropic.com)
 
-**Infra & Data**
+**Other**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,firebase,mongodb,postgres,mysql,redis,nginx,linux,git,github&theme=dark)](https://skillicons.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![MQL5](https://img.shields.io/badge/MQL5-1B3A6B?style=flat)](https://mql5.com)
+
+---
+
+## How I Work
+
+I use Claude Code as a directed tool — not autocomplete. Every output gets reviewed, calibrated against real data, and corrected where wrong. The skill is knowing when the AI is wrong and fixing it fast.
 
 ---
 
@@ -52,4 +73,4 @@ Claude API · Claude Code · LLM integrations · Prompt engineering
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/vanlang) · [Facebook](https://facebook.com/vanlang)
+[LinkedIn](https://linkedin.com/in/vanlang) · vothuycoc@gmail.com
