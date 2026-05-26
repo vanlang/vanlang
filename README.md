@@ -5,25 +5,6 @@ Based in Vietnam · Open to remote.
 
 ---
 
-## Featured Projects
-
-### [battlestrade.com](https://battlestrade.com) — MT5 Trading Dashboard & EA Marketplace
-Full-stack trading platform: MQL5 Expert Advisor on VPS auto-pushes live data → Cloudflare Workers API → Astro SSR frontend. Real-time P&L, analytics, EA discovery marketplace.
-
-`Cloudflare Workers` `Astro SSR` `Hono.js` `Drizzle ORM` `D1 SQLite` `TypeScript` `Chart.js` `Google OAuth` `JWT`
-
-### [ho-so-benh-an.vercel.app](https://ho-so-benh-an.vercel.app) — Medical Records Management
-Patient record system with role-based access, document management, and audit trails.
-
-`TypeScript` `Vercel`
-
-### [chuhan-flashcards.vercel.app](https://chuhan-flashcards.vercel.app) — Language Flashcard App
-Spaced repetition flashcard system for language learning.
-
-`JavaScript` `Vercel`
-
----
-
 ## Stack
 
 **Edge Runtime & Backend**
